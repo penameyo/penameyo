@@ -9,6 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=penameyo)](https://solved.ac/penameyo/)
 
+
 # 💪Skills
 ### Platforms & Languages
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
