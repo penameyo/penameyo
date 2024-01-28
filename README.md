@@ -25,6 +25,11 @@
 ![intellijidea](https://img.shields.io/badge/intellijidea-black.svg?&style=for-the-badge&logo=intellijidea&logoColor=White)
 ![sourcetree](https://img.shields.io/badge/sourcetree-navy.svg?&style=for-the-badge&logo=sourcetree&logoColor=White)
 
+# 📑Studying
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![c++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+
 # :mailbox_with_mail: Contacts
 
 [![velog Badge](http://img.shields.io/badge/-velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@penameyo/posts)](https://velog.io/@penameyo/posts)
