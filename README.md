@@ -6,7 +6,7 @@
 
 ## 🙌INFORMATION🙌
 ### Studied in Tech University of Korea
-### Majored Embedded System
+### Majored Electronic Engineering
 
 
 
