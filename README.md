@@ -2,7 +2,6 @@
  
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=timeGradient&height=300&section=header&text=JONG%20HO%20PARK&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpenameyo&count_bg=%2395CDDF&title_bg=%23728DB8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🙌INFORMATION🙌
 ### Studied in Tech University of Korea
