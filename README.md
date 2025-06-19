@@ -38,7 +38,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:helloll3405@naver.com)](helloll3405@naver.com)
 
 
-### 🖥️Program Solving by Java
+### 🖥️Programming
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=penameyo)](https://solved.ac/penameyo/)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
