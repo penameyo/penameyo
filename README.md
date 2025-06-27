@@ -4,8 +4,7 @@
 
 
 ## 🙌INFORMATION🙌
-### Studied in Tech University of Korea
-### Majored Electronic Engineering
+### An undergraduate student majoring in Electronic Engineering
 
 
 
