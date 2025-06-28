@@ -1,11 +1,9 @@
-<div align=center>
- 
-![header](https://capsule-render.vercel.app/api?type=venom&&color=timeGradient&height=300&section=header&text=JONG%20HO%20PARK&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=venom&&color=timeGradient&height=300&section=header&text=JONG%20HO%20PARK&fontSize=90)
 
 
 ## 🙌INFORMATION🙌
 ### An undergraduate student majoring in Electronic Engineering
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?penameyo=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💪Skills
