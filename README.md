@@ -24,7 +24,7 @@
 - 🖥️ I'm currently focusing on **Defense Industry SW**
 - 🌱 I’m currently learning **C/C++, Enmedded System, RTOS**
 - 🧑‍💻 **SK SUNI C 4TH** @Seoul 2025.06~
-- 🧑‍💻 **Techeer AI SW** @Seoul 2025.07~
+- 🧑‍💻 **Techeer AI SW 10TH** @Seoul 2025.07~
 
 <br>
 
