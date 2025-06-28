@@ -3,7 +3,7 @@
 
 ## 🙌INFORMATION🙌
 ### An undergraduate student majoring in Electronic Engineering
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?penameyo=anuraghazra&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penameyo&layout=compact)]
 
 
 # 💪Skills
