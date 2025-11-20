@@ -24,7 +24,8 @@
 - 🖥️ I'm currently focusing on **Defense Industry SW**
 - 🌱 I’m currently learning **C/C++, Enmedded System, RTOS**
 - I'm a member of...
-- 🧑‍💻 **SK SUNI C 4th** @Seoul 2025.06~
+- 🧑‍💻 **SK SUNI C 4th** @Seoul 2025.06 ~ 2025. 08
+- 📗 **NAVER CLOUD ACADEMY 2nd** @Siheung 2025. 10~
 
 
 <br>
@@ -32,8 +33,9 @@
 
 🤲 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜
 
-- 🛳️ **Ministry of Oceans and Fisheries** Disaster Relief UAV Project @Busan 2025.04~
+- 🛳️ **Ministry of Oceans and Fisheries** Disaster Relief UAV Project 🥉3rd @Busan 2025.04 ~ 2025.11 
 
+- Korea Information Processing Society ACK 2025 Best Thesis Award 🥇1st @Seoul 2025
 <br>
 
 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
