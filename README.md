@@ -35,7 +35,7 @@
 
 - 🛳️ **Ministry of Oceans and Fisheries** Disaster Relief UAV Project 🥉3rd @Busan 2025.04 ~ 2025.11 
 
-- Korea Information Processing Society ACK 2025 Best Thesis Award 🥇1st @Seoul 2025
+- 🖥️ Korea Information Processing Society ACK 2025 Best Thesis Award 🥇1st @Seoul 2025
 <br>
 
 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
