@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **C/C++, Enmedded System, RTOS**
 - I'm a member of...
 - 🧑‍💻 **SK SUNI C 4th** @Seoul 2025.06 ~ 2025. 08
-- 📗 **NAVER CLOUD ACADEMY 2nd** @Siheung 2025. 10~
+- 📗 **NAVER CLOUD ACADEMY 1st** @Siheung 2025. 10~
 
 
 <br>
