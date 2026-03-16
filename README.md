@@ -23,10 +23,10 @@
 
 - 🖥️ I'm currently focusing on **Defense Industry SW**
 - 🌱 I’m currently learning **C/C++, Enmedded System, RTOS**
-- I'm a member of...
+🐥 I'm a member of...
 - 🧑‍💻 **SK SUNI C 4th** @Seoul 2025.06 ~ 2025. 08
 - 📗 **NAVER CLOUD ACADEMY 1st** @Siheung 2025. 10 ~ 2025. 12
-- 🤖 **LG Aimers 8th** @Seoul 2026. 01 ~
+- 🤖 **LG Aimers 8th** @Seoul 2026. 01 ~ 2026. 03
 
 
 <br>
@@ -36,7 +36,7 @@
 
 - 🛳️ **Ministry of Oceans and Fisheries** Disaster Relief UAV Project 🥉3rd @Busan 2025.04 ~ 2025.11 
 
-- 🖥️ Korea Information Processing Society ACK 2025 Best Thesis Award 🥇1st @Seoul 2025
+- 🖥️ **Korea Information Processing Society** ACK 2025 Best Paper Award 🥇1st @Seoul 2025
 <br>
 
 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
